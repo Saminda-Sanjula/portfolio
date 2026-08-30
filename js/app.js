@@ -1,7 +1,6 @@
 /* Main Application Logic for Saminda Sanjula Portfolio */
 
 document.addEventListener('DOMContentLoaded', () => {
-  initTypewriter();
   renderSkills('all');
   renderProjects();
   renderCertifications();
